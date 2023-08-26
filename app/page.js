@@ -1,8 +1,8 @@
-import Contact from "./components/Contact"
-import Footer from "./components/Footer"
-import Gallery from "./components/Gallery"
-import Header from "./components/Header"
-import Pricing from "./components/Pricing"
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
+import Header from "./components/Header";
+import Pricing from "./components/Pricing";
 
 export default function Home() {
   return (
@@ -15,5 +15,5 @@ export default function Home() {
         <Footer />
       </div>
     </main>
-  )
+  );
 }
